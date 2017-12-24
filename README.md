@@ -26,4 +26,4 @@ Insight :
 2. Always retaining the outsanding gene seems to be a good way.
 
 Learning Curve : 
-![alt tag](https://user-images.githubusercontent.com/34533532/34327437-c9e83424-e8ff-11e7-9faa-c35a8a4bdf0d.png)
+![alt tag](https://user-images.githubusercontent.com/34533532/34327431-a72734da-e8ff-11e7-96f0-c8e98010d594.png)
